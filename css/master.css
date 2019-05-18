@@ -83,3 +83,7 @@ margin: auto;
 a{
   margin-right: 6px;
 }
+
+footer {
+   display: table-row;
+}
