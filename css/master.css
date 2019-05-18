@@ -87,3 +87,7 @@ a{
 footer {
    display: block;
 }
+
+#icons{
+  display: inline-inline-block;
+}
