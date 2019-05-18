@@ -1,0 +1,84 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Voltaire', monospace, sans-serif;
+}
+
+
+h1{
+  padding: 3px;
+  font-size: 45px;
+  margin-bottom: 0px;
+}
+
+#title{
+  display: block;
+  text-align: center;
+  background-color:rgba(192,192,192,0.3);
+  border-bottom:7px solid white;
+  border-top:7px solid white;
+}
+
+#img-div{
+  width: 70%;
+  overflow: hidden;
+  margin: auto;
+  background-color:rgba(192,192,192,0.3);
+  border-bottom: 7px solid white;
+}
+
+#img-caption{
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 7px;
+}
+
+
+#tribute-info{
+  width: 95%;
+  margin: auto;
+  background-color:rgba(192,192,192,0.3);
+  border-bottom: 7px solid white;
+  padding-left: 8%;
+  padding-right: 7%;
+}
+
+#image{
+  width: 100%;
+    border-bottom: 7px solid white;
+}
+
+li{
+  font-size: 20px;
+}
+
+
+#read-more{
+  width: 100%;
+text-align: center;
+margin: auto;
+  background-color:rgba(192,192,192,0.3);
+  border-bottom: 7px solid white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 22px;
+}
+
+
+
+.foot {
+    margin: auto;
+    overflow: hidden;
+    text-align: center;
+    background-color:rgba(192,192,192,0.3);
+    box-sizing: border-box;
+}
+
+
+a{
+  margin-right: 6px;
+}
