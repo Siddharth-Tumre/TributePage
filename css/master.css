@@ -79,15 +79,10 @@ margin: auto;
     box-sizing: border-box;
 }
 
-
 a{
-  margin-right: 6px;
-}
-
-footer {
-   display: block;
-}
+  padding-right: 6px;
+ }
 
 #icons{
-  display: inline-inline-block;
+  display: inline-block;
 }
