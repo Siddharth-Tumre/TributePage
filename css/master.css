@@ -48,8 +48,9 @@ h1{
 }
 
 #image{
-  width: 100%;
+  max-width: 100%;
     border-bottom: 7px solid white;
+    display: block;
 }
 
 li{
